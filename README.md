@@ -1,7 +1,3 @@
-# WebSocket Chat App
-
-A chat app built with WebSocket, React, and Node.js
-
 ## Setup
 
 ### Backend
@@ -13,7 +9,11 @@ A chat app built with WebSocket, React, and Node.js
    ```bash
    pnpm install
    ```
-3. Start the server:
+3. Build:
+   ```bash
+   pnpm build
+   ```
+4. Start the server:
    ```bash
    pnpm start
    ```
